@@ -29,27 +29,27 @@ Cette séparation garantit une évaluation fiable des performances du modèle.
 Le projet a été réalisé selon une approche inspirée de CRISP-DM :
 
 #### 1. Compréhension du problème
-Analyse du contexte médical
+Analyse du contexte médical, 
 Définition de l’objectif de classification
 #### 2. Exploration des données
-Visualisation des radiographies
+Visualisation des radiographies, 
 Analyse de la distribution des classes
 #### 3. Préparation des données
-Redimensionnement des images
-Normalisation des pixels
+Redimensionnement des images, 
+Normalisation des pixels, 
 Encodage des labels
 #### 4. Augmentation des données (Data Augmentation)
 Rotation; 
 Zoom
 #### 5. Modélisation
-Conception d’un réseau de neurones convolutif (CNN)
-Entraînement sur les données d’entraînement
+Conception d’un réseau de neurones convolutif (CNN), 
+Entraînement sur les données d’entraînement, 
 Ajustement des hyperparamètres
 #### 6. Évaluation
-Accuracy
-Précision
-Recall
-F1-score
+Accuracy, 
+Précision, 
+Recall, 
+F1-score, 
 Matrice de confusion
 
 ## 📈 Résultats

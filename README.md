@@ -11,15 +11,13 @@ Ce travail s’inscrit dans le domaine de la santé numérique et vise à :
 
   
 ## 📂 Données utilisées
-
 Les données proviennent du dataset Chest X-Ray Images (Pneumonia) disponible sur Kaggle.
-### 🔹 Description
+#### 🔹 Description
 Environ 5 800 images au format JPEG
 Deux classes :
-NORMAL : poumons sains
-PNEUMONIA : poumons infectés
-
-### 🔹 Organisation
+- NORMAL : poumons sains
+- PNEUMONIA : poumons infectés
+#### 🔹 Organisation
 Les données sont réparties en trois ensembles :
 - Train (entraînement)
 - Validation
@@ -54,30 +52,24 @@ Recall
 F1-score
 Matrice de confusion
 
-
 ## 📈 Résultats
-
 Les analyses et la modélisation ont permis de développer un système capable de classifier les radiographies en pneumonie ou normal.
 
 ## 🔍 Analyse
-
 Bon niveau de performance globale
 Bonne capacité de détection des cas de pneumonie
 Impact possible du déséquilibre des classes
 
 
 ## 📊 Visualisations
-
 Courbes d’apprentissage (loss et accuracy)
 Matrice de confusion
-
 Ces éléments permettent d’identifier :
 - Les points forts du modèle
 - Les axes d’amélioration
 
   
 ## 🧠 Conclusion
-
 Ce projet a permis de développer des compétences en :
 - Analyse et traitement d’images médicales
 - Apprentissage profond (Deep Learning)

@@ -4,7 +4,6 @@
 ## 🎯 Objectif du projet
 
 L’objectif de ce projet est de développer un modèle d’intelligence artificielle capable d’analyser des radiographies thoraciques (Chest X-ray) afin de détecter automatiquement la présence de pneumonie.
-
 Ce travail s’inscrit dans le domaine de la santé numérique et vise à :
 - Identifier les caractéristiques visuelles associées à la pneumonie
 - Automatiser un diagnostic préliminaire à partir d’images médicales
@@ -14,14 +13,13 @@ Ce travail s’inscrit dans le domaine de la santé numérique et vise à :
 ## 📂 Données utilisées
 
 Les données proviennent du dataset Chest X-Ray Images (Pneumonia) disponible sur Kaggle.
-
-## 🔹 Description
+### 🔹 Description
 Environ 5 800 images au format JPEG
 Deux classes :
 NORMAL : poumons sains
 PNEUMONIA : poumons infectés
 
-## 🔹 Organisation
+### 🔹 Organisation
 Les données sont réparties en trois ensembles :
 - Train (entraînement)
 - Validation
@@ -32,24 +30,24 @@ Cette séparation garantit une évaluation fiable des performances du modèle.
 
 Le projet a été réalisé selon une approche inspirée de CRISP-DM :
 
-### 1. Compréhension du problème
+#### 1. Compréhension du problème
 Analyse du contexte médical
 Définition de l’objectif de classification
-### 2. Exploration des données
+#### 2. Exploration des données
 Visualisation des radiographies
 Analyse de la distribution des classes
-### 3. Préparation des données
+#### 3. Préparation des données
 Redimensionnement des images
 Normalisation des pixels
 Encodage des labels
-### 4. Augmentation des données (Data Augmentation)
+#### 4. Augmentation des données (Data Augmentation)
 Rotation
 Zoom
-### 5. Modélisation
+#### 5. Modélisation
 Conception d’un réseau de neurones convolutif (CNN)
 Entraînement sur les données d’entraînement
 Ajustement des hyperparamètres
-### 6. Évaluation
+#### 6. Évaluation
 Accuracy
 Précision
 Recall
@@ -88,13 +86,12 @@ Ce projet a permis de développer des compétences en :
 
 
 ## 🛠️ Technologies utilisées
-Python
-NumPy
-Pandas
-Matplotlib
-TensorFlow / Keras
-Scikit-learn
-
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow / Keras
+- Scikit-learn
 
 ## 👥 Travail en équipe
 

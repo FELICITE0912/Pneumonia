@@ -39,7 +39,7 @@ Redimensionnement des images
 Normalisation des pixels
 Encodage des labels
 #### 4. Augmentation des données (Data Augmentation)
-Rotation
+Rotation; 
 Zoom
 #### 5. Modélisation
 Conception d’un réseau de neurones convolutif (CNN)
@@ -56,14 +56,13 @@ Matrice de confusion
 Les analyses et la modélisation ont permis de développer un système capable de classifier les radiographies en pneumonie ou normal.
 
 ## 🔍 Analyse
-Bon niveau de performance globale
-Bonne capacité de détection des cas de pneumonie
-Impact possible du déséquilibre des classes
-
+- Bon niveau de performance globale
+- Bonne capacité de détection des cas de pneumonie
+- Impact possible du déséquilibre des classes
 
 ## 📊 Visualisations
-Courbes d’apprentissage (loss et accuracy)
-Matrice de confusion
+Courbes d’apprentissage (loss et accuracy);
+Matrice de confusion. 
 Ces éléments permettent d’identifier :
 - Les points forts du modèle
 - Les axes d’amélioration

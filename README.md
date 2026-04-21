@@ -1,4 +1,4 @@
-# 🫁 Détection et classification de la pneumonie à partir de radiographies thoraciques
+# 🫁 Détection et classification de la pneumonie à partir de radiographie thoraciques
 
 
 ## 🎯 Objectif du projet

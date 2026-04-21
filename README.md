@@ -2,7 +2,7 @@
 
 
 ## 🎯 Objectif du projet
-uy
+u
 
 L’objectif de ce projet est de développer un modèle d’intelligence artificielle capable d’analyser des radiographies thoraciques (Chest X-ray) afin de détecter automatiquement la présence de pneumonie.
 Ce travail s’inscrit dans le domaine de la santé numérique et vise à :

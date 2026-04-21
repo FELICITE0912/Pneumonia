@@ -1,7 +1,7 @@
 # 🫁 Détection et classification de la pneumonie à partir de radiographies thoraciques
 
 
-## 🎯 Objectif du projet sdfgdtfy
+## 🎯 Objectif du projet sdfgdtdfghjkl
 
 
 L’objectif de ce projet est de développer un modèle d’intelligence artificielle capable d’analyser des radiographies thoraciques (Chest X-ray) afin de détecter automatiquement la présence de pneumonie.

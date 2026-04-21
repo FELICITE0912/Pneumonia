@@ -5,7 +5,7 @@
 
 
 L’objectif de ce projet est de développer un modèle d’intelligence artificielle capable d’analyser des radiographies thoraciques (Chest X-ray) afin de détecter automatiquement la présence de pneumonie.
-Ce travail s’inscrit dans le domaine de la santé numérique et vise à :
+Ce travail s’inscrit dans le domaine de la santé numérique et vise àv :
 - Identifier les caractéristiques visuelles associées à la pneumonie
 - Automatiser un diagnostic préliminaire à partir d’images médicales
 - Évaluer les performances des modèles de deep learning dans un contexte réel
